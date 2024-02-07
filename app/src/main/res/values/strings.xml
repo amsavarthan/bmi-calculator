@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="btn_share">Share</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="btn_continue">Continue</string>
+
+    <string name="bmi_result_headline">Your BMI is</string>
+    <string name="bmi_result_headline_share">My BMI is</string>
+    <string name="bmi_result_unit">kg/m²</string>
+    <string name="bmi_result_category_message">"Your weight is "</string>
+    <string name="bmi_result_category_message_share">"My weight is "</string>
+
+    <string name="height_screen_headline">How tall are you?</string>
+    <string name="height_unit">cm</string>
+    <string name="height_unit_alt">ft</string>
+
+    <string name="weight_screen_headline">How much do you weigh?</string>
+    <string name="weight_unit">kg</string>
+    <string name="weight_unit_alt">lbs</string>
+    <string name="redirect_url">amsavarthan.dev/bmi</string>
+    <string name="bmi_info_url">https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/</string>
+</resources>
