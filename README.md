@@ -1,15 +1,15 @@
-![Github Preview Image](https://github.com/amsavarthan/bmi-calculator/blob/main/art/Banner.png?raw=true)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 
 # BMI Calculator ⚖️
 A simple bmi calculator application made using Jetpack compose. This was primarily built with the intention of deepening understanding and practical experience with the Canvas API.
 
+https://medium.com/towardsdev/taking-screenshot-of-a-composable-composable-to-bitmap-4ca1db29bb51
 <br />
 
 ***Get the latest app from Playstore 👇***
 
 [![BMI Calculator](https://img.shields.io/badge/BMI_Calculator-PLAYSTORE-black.svg?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=bmi.calculator.amsavarthan.dev)
-
-<br />
 
 ## Screenshots 📸
 [Circular Scale](https://github.com/amsavarthan/bmi-calculator/blob/main/app/src/main/java/bmi/calculator/amsavarthan/dev/presentation/components/CircularScale.kt) | [Scale](https://github.com/amsavarthan/bmi-calculator/blob/main/app/src/main/java/bmi/calculator/amsavarthan/dev/presentation/components/Scale.kt) | Result
